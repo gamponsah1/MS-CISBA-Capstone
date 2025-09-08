@@ -1,1 +1,1 @@
-
+This is a demonstration of skills in data analytics and visualization with the use of tableau. A portfolio of work in data visualization could be found on my tableau profile here. https://public.tableau.com/app/profile/godfred.amponsah/vizzes
