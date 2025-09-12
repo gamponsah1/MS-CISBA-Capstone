@@ -1,3 +1,4 @@
+![Construction Project](construction.png)
 This repository contains documentation for creating a construction database Management system
 
 **Areas of Focus:**
