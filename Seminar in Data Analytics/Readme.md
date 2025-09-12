@@ -1,1 +1,3 @@
-This is a demonstration of skills in data analytics and visualization with the use of tableau. A portfolio of work in data visualization could be found on my tableau profile here. https://public.tableau.com/app/profile/godfred.amponsah/vizzes
+This repository showcases my skills in data analytics and visualization using Tableau.
+Explore my full portfolio of interactive dashboards and data stories on my Tableau Public profile.
+https://public.tableau.com/app/profile/godfred.amponsah/vizzes
