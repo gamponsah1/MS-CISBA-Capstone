@@ -1,4 +1,5 @@
-Data Analytics Course:
+**Self Assessment on Data Analytics Course**:
+
 What do I know. Competencies, skills, and knowledge where you are the most confident and proficient.
 My strongest foundation in data analytics lies in SQL and data preparation/integration using Tableau. I am highly proficient in writing complex SQL queries to extract, transform, and analyze data from relational databases. This skill enables me to clean and structure raw data efficiently, ensuring it’s ready for analysis. Using Tableau, I’ve built interactive dashboards and visualizations that help stakeholders uncover insights and make data-driven decisions. I’m confident in connecting Tableau to various data sources, blending datasets, and applying calculated fields to support dynamic reporting.
 I also have solid experience in supervised and unsupervised data mining techniques, which I’ve applied to uncover patterns and predict outcomes from large datasets. I’m comfortable using classification, regression, clustering, and association rule mining to solve real-world problems. These techniques have helped me identify trends to build predictive models. My understanding of these methods is backed by practical applications in Python, where I used libraries like scikit-learn and pandas to build and evaluate models.
