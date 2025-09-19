@@ -7,11 +7,13 @@ I also have solid experience in supervised and unsupervised data mining techniqu
 Additionally, I’m skilled in Python programming and working with Google Collab, which I use for exploratory data analysis and machine learning. I’m confident in retrieving data from APIs, parsing JSON responses, and integrating external data into my analysis workflows. This to work with third-party data sources, enriching my datasets and expanding the scope of my insights. My ability to combine Python with cloud-based tools like Collab makes my analytics work scalable, collaborative, and reproducible.
 
 *What do I know. Competencies, skills, and knowledge where you are the least confident and proficient in.*
+
 One area where I feel least confident is the use of RapidMiner, a tool I’ve had limited exposure to. While I understand its capabilities for performing data mining tasks through a visual workflow interface, I haven’t had much hands-on experience using it. As a result, I’m not yet comfortable navigating its environment and using its full potential for advanced analytics. I understand its value in simplicity and I’m actively seeking opportunities to improve my proficiency.
 I also find Tableau a bit challenging in certain advanced use cases, especially when it comes to creating highly customized visualizations. While I’m confident in basic dashboard creation and data integration, I sometimes struggle with optimizing performance and implementing more complex calculations. I’m working on deepening my understanding of Tableau’s advanced features by working on personal projects
 Another area I’m working on to improve is time series analysis and the use of Streamlit. Time series analysis requires a strong grasp of temporal patterns, forecasting techniques, and model evaluation, which I’m still developing. Similarly, while I’ve explored Streamlit for building simple data apps, I’m not yet proficient in creating fully interactive and production-ready applications. I see great potential in both areas for expanding my analytics toolkit and will work in building confidence through practice and learning.
 
 *What do you wish you knew and/or don't realize you are missing*
+
 After completing this program, I still feel that coverage of Large Language Models was missing. I had hoped for a deeper dive into both the theoretical foundations and the practical aspects of working with LLMs, but the assignments provided only limited exposure to that area. 
 
 One prominent source of knowledge I used in data analytics was DataCamp and YouTube, especially for learning Tableau. I believe that continued hands-on practice with the software will deepen my understanding and improve my proficiency. 
