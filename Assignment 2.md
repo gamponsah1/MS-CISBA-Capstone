@@ -1,0 +1,21 @@
+** Assessment on Data Management **
+*What do I know: Competencies, skills, and knowledge where I am most confident and proficient.*
+
+One area where I feel most confident is in SQL. I’m comfortable writing complex queries for data manipulation, aggregation, and analysis. I understand how to work with relational databases, perform joins, filter data efficiently, and use functions to transform datasets. This skill has been central to many of my data projects and continues to be a strong foundation in my analytics toolkit.
+I’m also confident in database design, including creating schemas, defining relationships, and structuring data for both integrity and performance. I understand how to model entities and attributes effectively, and I’ve applied these principles in designing systems that support scalable data operations.
+Another area of strength is web scraping. I’ve used tools like Python’s requests, BeautifulSoup, and Selenium to extract data from websites, handle dynamic content, and clean the data for analysis. This skill has been particularly useful in building custom datasets and automating data collection workflows.
+One good thing that came out of this course was earning the IBM Data Warehouse Certification. Through the certification, I gained a solid understanding of database management and data warehousing concepts, including ETL processes, dimensional modeling, and performance optimization. The certification not only deepened my technical knowledge but also serves as a valuable credential that strengthens my resume and enhances my prospects in the job market.
+
+*What do I know: Competencies, skills, and knowledge where I am least confident and proficient.*
+One area where I feel least confident is the concept of roll-up operations in SQL. While I understand basic aggregation, I find it challenging to implement hierarchical summaries and subtotals using rollup, cube, or grouping sets. These advanced operations are necessary for reporting, and I’m working to improve my understanding through practice and study.
+I also find Third Normal Form (3NF) normalization a bit difficult to apply in real-world scenarios. Although I grasp the theory behind reducing redundancy and ensuring data integrity, identifying transitive dependencies and restructuring tables accordingly can be tricky. I’m actively working to strengthen my skills in normalization through hands-on exercises.
+Another area I’m working to improve is the creation and management of constraints in databases. Defining foreign keys, check constraints, and unique constraints correctly is essential for maintaining data integrity, but I sometimes struggle with knowing when and how to apply them effectively. I’m focusing on learning best practices for constraint implementation and learning from the book suggested during the class.
+ 
+*What do I wish I knew and/or don’t realize I am missing.*
+After completing the courses in data management, I realized that I would have benefited from deeper coverage of advanced SQL topics, such as recursive queries, window functions, and query optimization strategies. These are areas I’ve only briefly encountered and would like to explore further.
+I also wish I had more exposure to real-world database design challenges, especially those involving trade-offs between normalization and performance. Understanding how to design systems that balance data integrity with query efficiency is something I’m eager to learn more about.
+To support my learning, I’m still signed up to Data Camp with my school email address, YouTube, and official documentation. These resources have helped me build foundational skills, and I plan to continue using them to deepen my understanding.
+In summary, I’ve developed strong skills in SQL, database design, and web scraping. I’ve also used Google Collab for python scripting which has been beneficial for me on knowing a platform to use for scripting. I’m now focused on improving my grasp of advanced database concepts and continuing to grow through hands-on practice and learning.
+Samples of work done in this domain could be found here:
+
+https://github.com/gamponsah1/MS-CISBA-Capstone/tree/main/Data%20and%20Information%20Management
