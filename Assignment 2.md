@@ -1,4 +1,5 @@
 ** Assessment on Data Management **
+
 *What do I know: Competencies, skills, and knowledge where I am most confident and proficient.*
 
 One area where I feel most confident is in SQL. I’m comfortable writing complex queries for data manipulation, aggregation, and analysis. I understand how to work with relational databases, perform joins, filter data efficiently, and use functions to transform datasets. This skill has been central to many of my data projects and continues to be a strong foundation in my analytics toolkit.
