@@ -1,4 +1,4 @@
-** Assessment on Data Management **
+**Assessment on Data Management**
 
 *What do I know: Competencies, skills, and knowledge where I am most confident and proficient.*
 
